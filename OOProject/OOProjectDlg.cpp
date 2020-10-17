@@ -102,7 +102,7 @@ BOOL COOProjectDlg::OnInitDialog()
 	SetIcon(m_hIcon, FALSE);		// Set small icon
 
 	// TODO: Add extra initialization here
-	MoveWindow(0, 0, 900, 650);
+	MoveWindow(0, 0, 1100, 750);
 
 	dogButtonBitmap.LoadBitmapW(IDB_BITMAP_SMALL_DOG);
 	HBITMAP dogBitmap = (HBITMAP)dogButtonBitmap.GetSafeHandle();

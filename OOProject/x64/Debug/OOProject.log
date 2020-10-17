@@ -1,0 +1,16 @@
+﻿  OOProjectDlg.cpp
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(168,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(168,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(168,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(168,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(175,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(175,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(175,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(175,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(551,10): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(577,10): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(233,40): warning C4838: conversion from 'LONG' to 'double' requires a narrowing conversion
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(291): message : see reference to function template instantiation 'void COOProjectDlg::AddAnimal<Dog>(void)' being compiled
+C:\Yovel\GIT\Farm-Manager\OOProject\OOProjectDlg.cpp(233,49): warning C4838: conversion from 'LONG' to 'double' requires a narrowing conversion
+  OOProject.vcxproj -> C:\Yovel\GIT\Farm-Manager\x64\Debug\OOProject.exe
